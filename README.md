@@ -3,9 +3,9 @@ um jogo da velha no qual o jogador X vai primeiro e logo em seguida o jogador O 
 O  resultado é mostrado ao usuário no final do jogo.
 
 ##Tecnologias utilizadas
- -**HTML:** Estrutura do site
- -**CSS:** Estilos do site
- -**JS:** Funções do site
+ - **HTML:** Estrutura do site
+ - **CSS:** Estilos do site
+ - **JS:** Funções do site
  - ~~BootStrap~~: Não foi utilizado
 
 ### Melhorias possíveis
