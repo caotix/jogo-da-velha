@@ -17,10 +17,8 @@ O  resultado é mostrado ao usuário no final do jogo.
 https://caotix.github.io/jogo-da-velha/
 ### referencias
 https://github.com/WebersonRodrigues/jogo-da-velha
-<<<<<<< HEAD
 
 ### imagens:
-imagens\i1.png
-imagens\i2.png
-=======
->>>>>>> a13e46a51afdb080e49c597fc94e69bf076d7e0a
+![o jogo antes de qualquer alteração do usuário](imagens/i1.png)
+![o jogo após a interação com o usuário](imagens/i2.png)
+
