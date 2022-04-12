@@ -16,4 +16,4 @@ O  resultado é mostrado ao usuário no final do jogo.
 ### disponivel em:
 https://caotix.github.io/jogo-da-velha/
 ### referencias
-http://www.linhadecodigo.com.br/artigo/3506/criando-um-jogo-da-velha-em-javascript-html-e-css.aspx
+https://github.com/WebersonRodrigues/jogo-da-velha
