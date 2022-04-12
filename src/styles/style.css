@@ -2,11 +2,11 @@
 
 body {
     text-align: center;
-    font-family: 'Roboto';
+    font-family: 'Arial';
     background-color: rgb(32, 218, 141);
 }
 
-.square {
+.quadrado {
     text-align: center;
     width: 50px;
     background: #eee;
